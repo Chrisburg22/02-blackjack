@@ -1,0 +1,19 @@
+{
+  "name": "02-blackjack",
+  "version": "1.0.0",
+  "description": "Juego de blackjack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chrisburg22/02-blackjack.git"
+  },
+  "author": "Christian Ramos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chrisburg22/02-blackjack/issues"
+  },
+  "homepage": "https://github.com/Chrisburg22/02-blackjack#readme"
+}
